@@ -1,3 +1,5 @@
+---
+---
 # V/Q equation
 
 At **steady state** , mass of oxygen taken up from alveoli equals mass

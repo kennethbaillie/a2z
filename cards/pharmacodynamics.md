@@ -1,3 +1,5 @@
+---
+---
 # Pharmacodynamics
 
 **Pharmacodynamics** 'effect of drug on body': drug-receptor

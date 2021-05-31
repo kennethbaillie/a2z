@@ -1,3 +1,5 @@
+---
+---
 # Awake fibreoptic intubation
 
 **Awake fibreoptic intubation** requires anaesthesia of the airway by

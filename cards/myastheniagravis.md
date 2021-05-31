@@ -1,3 +1,5 @@
+---
+---
 # Myasthenia gravis
 
 **Myasthenia gravis** Autoimmune (IgG mediated) destruction of

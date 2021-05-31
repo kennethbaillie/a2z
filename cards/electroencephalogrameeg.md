@@ -1,3 +1,5 @@
+---
+---
 # Electroencephalogram (EEG)
 
 **Electroencephalogram (EEG)** . Composite recording of surface

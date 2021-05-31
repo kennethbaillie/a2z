@@ -1,3 +1,5 @@
+---
+---
 # Beer-Lambert law
 
 **Beer-Lambert law**

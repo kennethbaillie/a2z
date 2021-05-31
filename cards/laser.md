@@ -1,3 +1,5 @@
+---
+---
 # Laser
 
 **Laser** Light amplification by stimulated emission of radiation.

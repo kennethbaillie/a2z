@@ -1,3 +1,5 @@
+---
+---
 # MIC
 
 **MIC** Minimum inhibitory concentration. The lowest concentration of an

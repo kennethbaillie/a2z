@@ -1,3 +1,5 @@
+---
+---
 # Hippuric acid
 
 **Hippuric acid** is a metabolite of toluene, and causes a metabolic

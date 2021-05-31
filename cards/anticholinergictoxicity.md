@@ -1,3 +1,5 @@
+---
+---
 # Anticholinergic toxicity
 
 **Anticholinergic toxicity** (atropine toxicity) classically described:

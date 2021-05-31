@@ -1,3 +1,5 @@
+---
+---
 # Chi-squared test
 
 **Chi-squared test** applies to a 2 x 2 table, eg.:

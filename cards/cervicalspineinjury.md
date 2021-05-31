@@ -1,3 +1,5 @@
+---
+---
 # Cervical spine injury
 
 **Cervical spine injury** Clearing the C-spine in an unconscious patient

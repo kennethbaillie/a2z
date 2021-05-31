@@ -1,3 +1,5 @@
+---
+---
 # Shunt equation
 
 **Shunt equation** Calculates *effective shunt* . The calculated shunt

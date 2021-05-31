@@ -1,3 +1,5 @@
+---
+---
 # Leakage current
 
 **Leakage current** is current that flows along an alternative route

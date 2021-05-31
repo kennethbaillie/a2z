@@ -1,3 +1,5 @@
+---
+---
 # Guillain-Barré syndrome
 
 causes ascending weakness and sensory impairment and acute autonomic

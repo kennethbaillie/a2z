@@ -1,3 +1,5 @@
+---
+---
 # Local anaesthetic toxicity
 
 **Local anaesthetic toxicity** Early symptoms: tinnitus, circumoral

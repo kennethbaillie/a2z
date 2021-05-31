@@ -1,3 +1,5 @@
+---
+---
 # Nitrogen balance
 
 **Nitrogen balance** = (nitrogen ingested - nitrogen excreted). Negative

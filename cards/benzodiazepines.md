@@ -1,3 +1,5 @@
+---
+---
 # Benzodiazepines
 
 **Benzodiazepines** increase frequency of opening of **GABA <sub>A</sub>

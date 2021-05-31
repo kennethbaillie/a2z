@@ -1,3 +1,5 @@
+---
+---
 # Diathermy
 
 **Diathermy** uses high frequencies to decrease the risk of VF. Heat

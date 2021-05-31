@@ -1,3 +1,5 @@
+---
+---
 # Skeletal muscle contraction
 
 **Skeletal muscle contraction** An action potential releases Ca++ from

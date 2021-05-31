@@ -1,3 +1,5 @@
+---
+---
 # Global hypotonia
 
 **Global hypotonia** is caused by a very limited number of conditions,

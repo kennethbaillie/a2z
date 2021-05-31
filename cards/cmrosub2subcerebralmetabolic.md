@@ -1,3 +1,5 @@
+---
+---
 # CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)
 
 **CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)** Normally

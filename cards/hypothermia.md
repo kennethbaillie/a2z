@@ -1,3 +1,5 @@
+---
+---
 # Hypothermia
 
 **Hypothermia** (Intraoperative, see **thermoregulation** ).

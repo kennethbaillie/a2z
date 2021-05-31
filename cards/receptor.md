@@ -1,3 +1,5 @@
+---
+---
 # Receptor
 
 **Receptor** (see **drug targets** ). Cellular components bind

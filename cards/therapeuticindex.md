@@ -1,3 +1,5 @@
+---
+---
 # Therapeutic index
 
 **Therapeutic index** is the ratio of the toxic dose to the therapeutic

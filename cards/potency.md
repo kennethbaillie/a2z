@@ -1,3 +1,5 @@
+---
+---
 # Potency
 
 **Potency** The ratio between equiactive doses.

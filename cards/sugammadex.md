@@ -1,3 +1,5 @@
+---
+---
 # Sugammadex
 
 **Sugammadex** Reversal agent for **neuromuscular blockers,** superior

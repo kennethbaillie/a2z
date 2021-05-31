@@ -1,3 +1,5 @@
+---
+---
 # Larynx
 
 **Larynx** consists of the hyaline thyroid, cricoid and arytenoid

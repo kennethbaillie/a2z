@@ -1,3 +1,5 @@
+---
+---
 # Diffusing capacity
 
 **Diffusing capacity** commonly measured across the lung for carbon

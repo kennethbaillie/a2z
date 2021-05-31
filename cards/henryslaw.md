@@ -1,3 +1,5 @@
+---
+---
 # Henry's law
 
 **Henry's law** is that the solubility of a gas in a liquid varies

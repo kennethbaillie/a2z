@@ -1,3 +1,5 @@
+---
+---
 # Fade
 
 **Fade** decrease in amplitude of muscle twitches on train-of-four (TOF)

@@ -1,3 +1,5 @@
+---
+---
 # Deafferentation pain
 
 **Deafferentation pain** is caused by interruption of the spinothalamic

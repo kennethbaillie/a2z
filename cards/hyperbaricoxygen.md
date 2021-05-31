@@ -1,3 +1,5 @@
+---
+---
 # Hyperbaric oxygen
 
 **Hyperbaric oxygen** is used to treat:

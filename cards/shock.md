@@ -1,3 +1,5 @@
+---
+---
 # Shock
 
 **Shock** is inadequate organ perfusion. Causes: cardiogenic,

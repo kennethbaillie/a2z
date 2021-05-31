@@ -1,3 +1,5 @@
+---
+---
 # Soda lime
 
 **Soda lime** is 94% Ca(OH) <sub>2</sub> and 5% NaOH, with 15-19%

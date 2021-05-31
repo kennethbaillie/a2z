@@ -1,3 +1,5 @@
+---
+---
 # Temperature measurement
 
 **Temperature measurement** can be non-electrical or electrical.

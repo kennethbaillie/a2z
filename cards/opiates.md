@@ -1,3 +1,5 @@
+---
+---
 # Opiates
 
 **Opiates** are opioids derived from naturally-occurring substances.

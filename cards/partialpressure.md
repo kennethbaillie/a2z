@@ -1,3 +1,5 @@
+---
+---
 # Partial pressure
 
 **Partial pressure** is defined by Dalton's law (' *Dalton defines'* )

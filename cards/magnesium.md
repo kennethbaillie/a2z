@@ -1,3 +1,5 @@
+---
+---
 # Magnesium
 
 **Magnesium** Effectively acts as an intracellular Ca++ antagonist.

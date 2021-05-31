@@ -1,3 +1,5 @@
+---
+---
 # Inulin
 
 **Inulin** is freely filtered, and neither secreted, metabolised, nor

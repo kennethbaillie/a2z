@@ -1,3 +1,5 @@
+---
+---
 # MRI
 
 **MRI** Principle: protons spin like the earth, and precess (wobble) on

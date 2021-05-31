@@ -1,3 +1,5 @@
+---
+---
 # Area under curve (AUC)
 
 **Area under curve (AUC)** of a graph shows x multiplied by y for a

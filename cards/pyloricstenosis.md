@@ -1,3 +1,5 @@
+---
+---
 # Pyloric stenosis
 
 **Pyloric stenosis** affects 4 times as many boys as girls, and 1 in 500

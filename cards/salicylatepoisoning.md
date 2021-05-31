@@ -1,3 +1,5 @@
+---
+---
 # Salicylate poisoning
 
 **Salicylate poisoning** usually caused by ingestion of aspirin or oil

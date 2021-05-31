@@ -1,3 +1,5 @@
+---
+---
 # Pneumothorax
 
 **Pneumothorax** May be mimicked by a large bulla or diaphragmatic

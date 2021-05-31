@@ -1,3 +1,5 @@
+---
+---
 # Myotonic dystrophy
 
 **Myotonic dystrophy** (dystrophia myotonica). Usually AD, M&gt;F. Gene

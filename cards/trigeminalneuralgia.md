@@ -1,3 +1,5 @@
+---
+---
 # Trigeminal neuralgia
 
 **Trigeminal neuralgia** sudden, episodic, unilateral lancinating pain

@@ -1,3 +1,5 @@
+---
+---
 # Scavenging
 
 **Scavenging** Health and Safety Commission limits: N2O 100ppm,

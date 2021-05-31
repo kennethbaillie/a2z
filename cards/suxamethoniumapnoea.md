@@ -1,3 +1,5 @@
+---
+---
 # Suxamethonium apnoea
 
 **Suxamethonium apnoea** autosomal recessive. Carrier rate 1 in 25,

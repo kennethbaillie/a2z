@@ -1,3 +1,5 @@
+---
+---
 # Context-sensitive half life
 
 **Context-sensitive half life** The time taken for the concentration to

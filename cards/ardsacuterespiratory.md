@@ -1,3 +1,5 @@
+---
+---
 # ARDS (acute respiratory distress syndrome)
 
 Defined as:

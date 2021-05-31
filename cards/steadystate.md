@@ -1,3 +1,5 @@
+---
+---
 # Steady state
 
 **Steady state** At steady state, reaction rates, flow rates, and

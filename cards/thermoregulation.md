@@ -1,3 +1,5 @@
+---
+---
 # Thermoregulation
 
 **Thermoregulation** Anaesthetised patients lose heat by:

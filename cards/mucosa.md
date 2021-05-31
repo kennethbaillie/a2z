@@ -1,3 +1,5 @@
+---
+---
 # Mucosa
 
 **Mucosa** in the gut has four layers:

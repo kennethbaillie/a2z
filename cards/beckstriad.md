@@ -1,3 +1,5 @@
+---
+---
 # Beck's triad
 
 **Beck's triad** in cardiac tamponade:

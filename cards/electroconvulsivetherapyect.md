@@ -1,3 +1,5 @@
+---
+---
 # Electroconvulsive therapy (ECT)
 
 **Electroconvulsive therapy (ECT)** A safe and effective treatment for

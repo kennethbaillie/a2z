@@ -1,3 +1,5 @@
+---
+---
 # Confidence interval (CI)
 
 **Confidence interval (CI)** 95%CI = 1.96 x **SEM** . The average in a

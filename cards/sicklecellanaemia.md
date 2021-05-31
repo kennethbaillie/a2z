@@ -1,3 +1,5 @@
+---
+---
 # Sickle cell anaemia
 
 **Sickle cell anaemia** AR. Incidence: &lt;1% of people of African

@@ -1,3 +1,5 @@
+---
+---
 # Triple point
 
 **Triple point** The temperature and pressure at which the gas, liquid

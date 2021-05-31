@@ -1,3 +1,5 @@
+---
+---
 # Nitrogen washout, single breath (Fowler's method)
 
 Measures the anatomical deadspace, closing capacity.

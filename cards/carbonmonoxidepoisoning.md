@@ -1,3 +1,5 @@
+---
+---
 # Carbon monoxide poisoning
 
 **Carbon monoxide poisoning** CO binds avidly to Hb (affinity 240x &gt;

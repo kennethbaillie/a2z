@@ -1,3 +1,5 @@
+---
+---
 # Ideal body weight
 
 **Ideal body weight** is a concept invented by actuaries selling life

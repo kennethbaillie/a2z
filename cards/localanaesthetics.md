@@ -1,3 +1,5 @@
+---
+---
 # Local Anaesthetics
 
 **Local Anaesthetics** act by blocking Na+ channels on nerve axons after

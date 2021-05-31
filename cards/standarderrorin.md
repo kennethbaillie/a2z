@@ -1,3 +1,5 @@
+---
+---
 # Standard error in the mean (SEM)
 
 **Standard error in the mean (SEM)** is a measure of how precisely the

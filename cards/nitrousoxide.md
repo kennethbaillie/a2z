@@ -1,3 +1,5 @@
+---
+---
 # Nitrous oxide
 
 **Nitrous oxide** is the only drug that has been used continuously

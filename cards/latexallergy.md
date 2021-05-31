@@ -1,3 +1,5 @@
+---
+---
 # Latex allergy
 
 **Latex allergy** has two presentations: Type 1 Hypersensitivity (2

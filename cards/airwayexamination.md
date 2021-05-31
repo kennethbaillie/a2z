@@ -1,3 +1,5 @@
+---
+---
 # Airway examination
 
 **Airway examination** aims to predict difficult airway management. Five

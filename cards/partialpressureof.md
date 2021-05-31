@@ -1,3 +1,5 @@
+---
+---
 # Partial pressure of a gas dissolved in a liquid
 
 **Partial pressure of a gas dissolved in a liquid** is a perplexing

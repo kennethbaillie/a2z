@@ -1,3 +1,5 @@
+---
+---
 # GABA <sub>A</sub> receptors
 
 **GABA <sub>A</sub> receptors** . Inhibitory ligand-gated ion channel.

@@ -1,3 +1,5 @@
+---
+---
 # Diffusion
 
 **Diffusion** For any freely moving substance, Fick's law applies

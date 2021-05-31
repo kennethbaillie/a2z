@@ -1,3 +1,5 @@
+---
+---
 # Muscular dystrophy
 
 **Muscular dystrophy** Duchenne: X-linked, severe: onset age 3-4,

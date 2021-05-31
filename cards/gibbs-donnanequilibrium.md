@@ -1,3 +1,5 @@
+---
+---
 # Gibbs-Donnan equilibrium
 
 **Gibbs-Donnan equilibrium** Holds for any pair of univalent anion and

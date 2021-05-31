@@ -1,3 +1,5 @@
+---
+---
 # Graham's Law
 
 Rate of diffusion of a gas is inversely proportional to its density.

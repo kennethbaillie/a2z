@@ -1,3 +1,5 @@
+---
+---
 # Amniotic fluid embolus
 
 Caused by amniotic fluid entering uterine veins. Meconium-stained

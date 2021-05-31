@@ -1,3 +1,5 @@
+---
+---
 # Malignant hyperpyrexia (malignant hyperthermia)
 
 **Malignant hyperpyrexia (malignant hyperthermia)** Genetic

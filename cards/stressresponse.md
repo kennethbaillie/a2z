@@ -1,3 +1,5 @@
+---
+---
 # Stress response
 
 **Stress response** to surgery, trauma, or burns is similar (xxx - how

@@ -1,3 +1,5 @@
+---
+---
 # Median
 
 **Median** The middle value from any *ordinal* data set. (see **data**

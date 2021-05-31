@@ -1,3 +1,5 @@
+---
+---
 # Acid-base - rules of thumb for compensation
 
 To predict the change in HCO3<sup>-</sup> expected due to metabolic

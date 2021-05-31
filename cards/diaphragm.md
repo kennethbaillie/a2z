@@ -1,3 +1,5 @@
+---
+---
 # Diaphragm
 
 **Diaphragm** is a muscular and tendinous dome that separates the thorax

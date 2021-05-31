@@ -1,3 +1,5 @@
+---
+---
 # NMDA receptor
 
 **NMDA receptor** excitatory ligand-gated cation channel. Regulates Ca++

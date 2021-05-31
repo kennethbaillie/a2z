@@ -1,3 +1,5 @@
+---
+---
 # PaCO2
 
 **PaCO2** is wholly determined by the equation:

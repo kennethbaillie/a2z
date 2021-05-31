@@ -1,3 +1,5 @@
+---
+---
 # Paracetamol toxixity
 
 **Paracetamol toxixity** low-risk treatment threshold 150mg/kg/day, high

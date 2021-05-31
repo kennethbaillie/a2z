@@ -1,3 +1,5 @@
+---
+---
 # Tetanus
 
 **Tetanus** caused by the spore-forming anaerobe *Clostridium tetani* ,

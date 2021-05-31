@@ -1,3 +1,5 @@
+---
+---
 # Normal distribution
 
 **Normal distribution** (Gaussian distribution): bell-shaped and

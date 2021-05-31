@@ -1,3 +1,5 @@
+---
+---
 # Neuromuscular blockade
 
 **Neuromuscular blockade**

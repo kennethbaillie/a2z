@@ -46,6 +46,10 @@ for file in os.listdir(outdir):
     if file.endswith(".md"):
         os.remove(os.path.join(outdir, file))
 
+std_yml = '''---
+---
+'''
+
 searchlist = []
 blocks = text.split("\n# ")
 for i,b in enumerate(blocks):
@@ -56,9 +60,12 @@ for i,b in enumerate(blocks):
     lines[0] = "#" + lines[0]
     thisfile = os.path.join(outdir, filename+".md")
     with open(thisfile, "w") as o:
-        o.write("# " + b)
+        o.write("{}# {}".format(
+            std_yml,
+            b
+            ))
     searchlist.append({
-            'href': os.path.relpath(thisfile),
+            'href': os.path.relpath(thisfile.replace(".md","")),
             'title': title,
             'content': get_unique_words(b), # this is the slow bit
             })

@@ -1,3 +1,5 @@
+---
+---
 # Conscious sedation
 
 **Conscious sedation** is defined by the Academy of Medical Royal

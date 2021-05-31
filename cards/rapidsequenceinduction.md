@@ -1,3 +1,5 @@
+---
+---
 # Rapid sequence induction
 
 **Rapid sequence induction** . Always check: 1. Optimal head position;
