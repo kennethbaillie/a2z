@@ -6,7 +6,7 @@ import re
 import json
 import unicodedata
 
-sourcefile = "a2z.md"
+sourcefile = "../_source/a2z.md"
 outdir = "../cards"
 si_file = "../searchindex.json"
 
@@ -39,6 +39,12 @@ def get_unique_words(bigstring):
 
 with open(sourcefile) as f:
     text = f.read()
+
+if not os.path.exists(outdir):
+    os.mkdir(outdir)
+for file in os.listdir(outdir):
+    if file.endswith(".md"):
+        os.remove(os.path.join(outdir, file))
 
 searchlist = []
 blocks = text.split("\n# ")
