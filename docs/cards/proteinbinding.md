@@ -1,3 +1,0 @@
-# Protein binding
-
-**Protein binding**

@@ -1,3 +1,0 @@
-# Diuretics
-
-**Diuretics** . See **nephron** .

@@ -1,3 +1,0 @@
-# Fontan circulation
-
-**Fontan circulation**

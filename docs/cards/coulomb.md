@@ -1,3 +1,0 @@
-# Coulomb
-
-**Coulomb** (see **units** )

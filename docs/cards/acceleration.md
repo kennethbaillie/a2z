@@ -1,3 +1,0 @@
-# Acceleration
-
-**Acceleration** = force/mass

@@ -1,3 +1,0 @@
-# Noradrenaline
-
-**Noradrenaline** See **catecholamines.**

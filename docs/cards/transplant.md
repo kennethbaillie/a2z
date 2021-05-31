@@ -1,3 +1,0 @@
-# Transplant
-
-**Transplant** (see **Immunosuppression** )

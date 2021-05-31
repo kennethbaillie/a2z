@@ -1,3 +1,0 @@
-# Sterilisation
-
-**Sterilisation** see **decontamination.**

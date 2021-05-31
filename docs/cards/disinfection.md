@@ -1,3 +1,0 @@
-# Disinfection
-
-**Disinfection** see **decontamination.**

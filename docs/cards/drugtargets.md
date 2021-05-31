@@ -1,3 +1,0 @@
-# Drug targets
-
-**Drug targets**

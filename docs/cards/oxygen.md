@@ -1,3 +1,0 @@
-# Oxygen
-
-**Oxygen** see **gases** .
