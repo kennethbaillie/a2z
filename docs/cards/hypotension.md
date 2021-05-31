@@ -1,0 +1,3 @@
+# Hypotension
+
+**Hypotension** (see **shock** ).

@@ -1,0 +1,3 @@
+# Wavelength
+
+**Wavelength** = velocity/frequency
