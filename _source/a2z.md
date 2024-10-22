@@ -1,104 +1,8 @@
-# Subarachnoid 
-
-Dropped GCS
-- sz
-- hydrocephalus 
-- vasospasm
-- bleed
-- infarct 
-
-Show families the scans. 
-Unsecured aneurysms are dangerous.
-SAH with hypoxia = neurogenic pulm oedema.
-
-# Nystagmus 
-
-Pendular nystagmus - common in babies and blind
-
-# Hypokalaemia and Acidosis
-
-Diuretics
-Acetazolamide
-Renal tubular acidosis type 1
-Enteral losses
-
-# Vasopressim
-
-VASST - hint of benefit if given early (in less severe shock); less renal injury.
-VANISH -
-VANCS - less acute renal failure after cardiac surgery; less atrial fibrillation vs norad.
-IPDMA - VANISH, VASST, VANCS: no survival difference *at all*; significant reduction in RRT requirement, narrowly significant. More digital ischaemia, less arrythmia.
-
-Modified Sgarbossa Criteria:
-≥ 1 lead with ≥1 mm of concordant ST elevation
-≥ 1 lead of V1-V3 with ≥ 1 mm of concordant ST depression
-≥ 1 lead anywhere with ≥ 1 mm STE and proportionally excessive discordant STE, as defined by ≥ 25% of the depth of the preceding S-wave.
-
-Urinary antigen tests available for:
-Streptococcus pneumoniae
-Legionella pneumophila serogroup 1.
-
-Bellomo. TRPF para amino hippuric acid 1970s TRPF is elevated in sepsis. But efferent dilation is greater so decreased GFR. In sheep, reversed by angiotensin II.
-
-Shunt vessels exist between afferent and efferent arterioles. Arne Lundquist 1970s. Ludwig 1911. "Ludwig's arteriole"
-
-Kids at risk of hyponatraemia due to nonphysiological ADH secretion (very common indeed, caused by nausea/distress) and at risk of complications due to higher brain:box ratio.
-
-Neuromuscular disorders
-MND: ddx als, polio, West Nile, paraneoplastic
-NMJ: ddx myasthenia, ELMS, botulism, organophosphate, snake bite
-
-GBS: weakness, areflexia, tingling and pain. Usually ascending. But bulbar variants exist.
-Complications - autonomic instability,
-Ileus leading to stercoperforation and death. Neuropathic pain.
-Sux hyperkalaemia
-Ddx: transverse myelitis, heavy metal poisoning, other nmd disorders above
-
-Rx.
-IVIG. Pooled from thousands of donors. Give once. Causes AKI.
-Plasma exchange
-Early trache.
-Don't push them too hard weaning
-Wean at 15ml/kg (about a litre) vital capacity
-
-Myasthenia gravis:
-Fatiguability. Younger women, older men.
-Normal reflexes, no sensory involvement.
-15-20% thymoma.
-Rx
-Acetylcholinesterase inhibitors (if too much, SLUDGE) . Steroids, IVIG, plex. Azathioprine, rituximab
-
-# viruses
-
-lipid enveloped: HIV HepB HepC
-
-
-
-<!--
-Learn
-
-Abx, mero taz amox metro 
-Inattention neglect 
-Blood pressure aortic dissection 
-Plateau pressure 
--->
-
-
 # A-a gradient
 
 Difference between alveolar (calculated using **alveolar gas equation**)
 and arterial (measured) partial pressures of oxygen. Normally 1kPa for
 every 25 years of life.
-
-# ARDS (acute respiratory distress syndrome)
-
-Defined as:
-
-The independent risk factors for ALI are old age, infection,
-neurological disease, alcohol abuse and multiple transfusions.
-
-3 overlapping phases: acute pulmonary oedema, hyaline organisation,
-fibrosis.
 
 # Abdominal compartment syndrome
 
@@ -343,6 +247,16 @@ alveoli by blood flow, and this is only replaced with around 10mls of
 CO2 from metabolism. Gas from the higher airways flows into the alveoli
 to replace the deficit.
 
+# ARDS (acute respiratory distress syndrome)
+
+Defined as:
+
+The independent risk factors for ALI are old age, infection,
+neurological disease, alcohol abuse and multiple transfusions.
+
+3 overlapping phases: acute pulmonary oedema, hyaline organisation,
+fibrosis.
+
 # Area under curve (AUC)
 
 **Area under curve (AUC)** of a graph shows x multiplied by y for a
@@ -408,10 +322,6 @@ Spray-as-you-go: Maximum safe dose of lignocaine is 9ml/kg by this
 route: Woodall BJA 2005.
 
 Lignocaine 10% topical spray delivers 10mg with each spray.
-
-# BMI (body mass index)
-
-**BMI (body mass index)** = weight(kg)/(height(m)) <sup>2</sup>
 
 # Baroreceptors
 
@@ -609,6 +519,10 @@ Severely obese: 45mls/kg
 endothelial cells and prevents free diffusion between blood and brain
 interstitium.
 
+# BMI (body mass index)
+
+**BMI (body mass index)** = weight(kg)/(height(m)) <sup>2</sup>
+
 # Bohr equation
 
 **Bohr equation**. (See **deadspace**.)
@@ -744,28 +658,6 @@ Early enteral nutrition.
 
 <img src="images/image023.jpg" width="400" />
 
-# CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)
-
-**CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)** Normally
-38ml/kg (ten times the whole-body VO2). In general, CMRO<sub>2</sub>
-increases with NMDA-antagonists, and decreases with GABA-agonists.
-
-\*Desflurane has no effect on CMRO<sub>2</sub> .
-
-\*\*A bolus of alfentanil increases ICP.
-
-\[Moss, E. *Continuing Education in Anaesthesia, Critical Care and Pain
-Medicine* **1** , 67(2001).\]
-
-# CSF (cerebrospinal fluid)
-
-**CSF (cerebrospinal fluid)** is produced at about 0.4ml/min by choroid
-plexus in lateral and third ventricles. K+/Na+ ATPase and carbonic
-anhydrase are necessary for production.
-
-\[Moss, E. *Continuing Education in Anaesthesia, Critical Care and Pain
-Medicine* **1** , 67(2001).\]
-
 # Calcium
 
 **Calcium** 99% of Ca++ is found in bone as hydroxyapatite. Of
@@ -815,28 +707,6 @@ neurogenic amines, including serotonin. Symptoms only present following
 hepatic metastasis because amines are metabolised otherwise. Flushing,
 dizziness, nausea, hypotension, bronchoconstriction.
 
-# Cardiac Index
-
-CI = Cardiac output / body surface area. NR: 2.6-4.2 l/min
-
-# Cardiac Output (Q)
-
-**Cardiac Output (Q)**
-
-Important physiological equations:
-
-*<span class="underline">Q =venous return</span>* : the heart pumps
-harder if more blood flows into it ( **Frank-Starling mechanism** ). In
-health, what goes in must come out.
-
-*<span class="underline">Q=SV\*HR</span>* : mathematically correct, but
-physiologically misleading. Electrical pacing an animal heart yeilds
-constant cardiac output between 50 and 200 bpm.
-
-*<span class="underline">Q=ΔP/SVR</span>* : Ohm's law. Always true, but
-remember that SVR is a composite measure of many different factors,
-including arteriolar resistance, viscosity
-
 # Cardiac arrest
 
 **Cardiac arrest** is caused by these reversible pathologies:
@@ -872,6 +742,28 @@ NB this is wrong as LV pressure must be greater than aortic during
 systole.
 
 See **Left ventricular pressure-volume curves**
+
+# Cardiac Index
+
+CI = Cardiac output / body surface area. NR: 2.6-4.2 l/min
+
+# Cardiac Output (Q)
+
+**Cardiac Output (Q)**
+
+Important physiological equations:
+
+*<span class="underline">Q =venous return</span>* : the heart pumps
+harder if more blood flows into it ( **Frank-Starling mechanism** ). In
+health, what goes in must come out.
+
+*<span class="underline">Q=SV\*HR</span>* : mathematically correct, but
+physiologically misleading. Electrical pacing an animal heart yeilds
+constant cardiac output between 50 and 200 bpm.
+
+*<span class="underline">Q=ΔP/SVR</span>* : Ohm's law. Always true, but
+remember that SVR is a composite measure of many different factors,
+including arteriolar resistance, viscosity
 
 # Cardiopulmonary exercise testing (CPET)
 
@@ -1091,6 +983,19 @@ xxx
 
 <img src="images/image014.gif" width="68" height="68" />
 <img src="images/image016.gif" width="169" height="118" />
+
+# CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)
+
+**CMRO<sub>2</sub> (Cerebral metabolic rate for oxygen)** Normally
+38ml/kg (ten times the whole-body VO2). In general, CMRO<sub>2</sub>
+increases with NMDA-antagonists, and decreases with GABA-agonists.
+
+\*Desflurane has no effect on CMRO<sub>2</sub> .
+
+\*\*A bolus of alfentanil increases ICP.
+
+\[Moss, E. *Continuing Education in Anaesthesia, Critical Care and Pain
+Medicine* **1** , 67(2001).\]
 
 # Coagulation
 
@@ -1319,6 +1224,15 @@ It is concentrated 200x in urine.
 
 **Critical temperature** is the temperature above which a gas cannot
 become a liquid no matter how much pressure is applied.
+
+# CSF (cerebrospinal fluid)
+
+**CSF (cerebrospinal fluid)** is produced at about 0.4ml/min by choroid
+plexus in lateral and third ventricles. K+/Na+ ATPase and carbonic
+anhydrase are necessary for production.
+
+\[Moss, E. *Continuing Education in Anaesthesia, Critical Care and Pain
+Medicine* **1** , 67(2001).\]
 
 # Cyanide toxicity
 
@@ -1604,6 +1518,10 @@ Synergy (see **isobologram** ).
 # Dystrophia myotonica
 
 **Dystrophia myotonica** See **myotonic dystrophy** .
+
+# e
+
+The base of the natural logarithm, 2.718.
 
 # ED <sub>50</sub>
 
@@ -1915,6 +1833,10 @@ reclaims sodium from filtrate.
 
 FENa &gt; 2% in acute tubular necrosis.
 
+# g
+
+Acceleration due to gravity 9.8 m/s <sup>2</sup>
+
 # GABA <sub>A</sub> receptors
 
 **GABA <sub>A</sub> receptors** . Inhibitory ligand-gated ion channel.
@@ -1926,6 +1848,18 @@ sedative, α2 anxiolytic, and α3 myorelaxant).
 Benzodiazepines bind to α subunits and increase frequency of channel
 opening. Barbiturates bind to β subunits and increase duration of
 opening.
+
+# Gas constant
+
+**Gas constant** R = 8.314 J/K/mol.
+
+# Gas detection. (
+
+**Gas detection. (** See **blood gas detection** ) Essential **minimal
+monitoring** : CO2, O2 (with alarm), volatile.
+
+\[Langton, J.A. et al. *Contin Educ Anaesth Crit Care Pain* **9** ,
+19-23(2009).\]
 
 # Gas Laws
 
@@ -1939,18 +1873,6 @@ Third gas Law: for constant volume, P varies as T
 
 If you remember what is constant, the rest is intuitive. Boyle:
 temperature; Charles (the balloonist): pressure.
-
-# Gas constant
-
-**Gas constant** R = 8.314 J/K/mol.
-
-# Gas detection. (
-
-**Gas detection. (** See **blood gas detection** ) Essential **minimal
-monitoring** : CO2, O2 (with alarm), volatile.
-
-\[Langton, J.A. et al. *Contin Educ Anaesth Crit Care Pain* **9** ,
-19-23(2009).\]
 
 # Gases
 
@@ -1998,19 +1920,6 @@ In addition to supportive management, immunoglobulin therapy or
 plasmapheresis are effective. In a self-ventilating patient, as with all
 neuromuscular disorders, the key measurement of respiratory muscle
 weakness is *vital capacity* (see **Pulmonary function tests** ).
-
-# HCVR -
-
-**HCVR -** hypercapnic ventilatory response. See **Ventilatory
-responses.**
-
-# HPV
-
-**HPV** See **Hypoxic pulmonary vasoconstriction.**
-
-# HVR -
-
-**HVR -** hypoxic ventilatory response. See **Ventilatory responses.**
 
 # Haemofiltration
 
@@ -2065,6 +1974,11 @@ p <sup>2</sup> + 2pq + q <sup>2</sup> = 1
 Na 131 K 5 Ca 2
 
 Cl 111 Lactate 29mmol/l
+
+# HCVR -
+
+**HCVR -** hypercapnic ventilatory response. See **Ventilatory
+responses.**
 
 # Heart failure
 
@@ -2204,6 +2118,10 @@ Volume&gt;potassium&gt;alkalaemia.
 
 Volume&gt;osmolality.
 
+# HPV
+
+**HPV** See **Hypoxic pulmonary vasoconstriction.**
+
 # Huffner's constant
 
 **Huffner's constant** the volume of oxygen gas that binds to a gram of
@@ -2230,6 +2148,10 @@ Nebulisers
 **Humidity** absolute: mass of water in given volume of air; relative:
 percentage of the maximum possible humidity at a given temperature (the
 maximum is determined by *saturation vapour pressure* ).
+
+# HVR -
+
+**HVR -** hypoxic ventilatory response. See **Ventilatory responses.**
 
 # Hygrometers
 
@@ -2304,6 +2226,13 @@ disturbances** .
 Hypokalaemia and acidosis An unusual combination caused by gut or
 kidney: Dialysis Acetazolamide Renal tubular acidosis Enteric losses
 (diarrhoea, VIPoma)
+
+# Hypokalaemia and Acidosis
+
+Diuretics
+Acetazolamide
+Renal tubular acidosis type 1
+Enteral losses
 
 # Hypotension
 
@@ -2585,6 +2514,15 @@ desmopressin ( \\uparrow factor VIII) and tranexamic acid
 3. Survival of profound anaemia: hypothermia, neuromuscular blockade,
 100% oxygen, hyperbaric oxygen.
 
+# Ketoacidosis
+
+arises from accumulation of three-carbon leftovers following fatty acid
+metabolism by β-oxidation. β-hydroxybutyrate and acetoacetate.
+
+Occurs in untreated diabetes mellitus Type I, alcohol intoxication,
+starvation (exacerbated by pregnancy), and rarely due to an avquired
+enzyme defect causing pyroglutamic aciduria.
+
 # Kidney. (
 
 **Kidney. (** See **nephron.** ) Functions:
@@ -2609,15 +2547,6 @@ dihydroxycholecalciferol
 Concentrates urine to a maximum of about 1200mOsm/l, therefore need to
 maintain urine output of 0.5ml/kg/h to excrete daily solute load of
 10mOsm/kg.
-
-# Ketoacidosis
-
-arises from accumulation of three-carbon leftovers following fatty acid
-metabolism by β-oxidation. β-hydroxybutyrate and acetoacetate.
-
-Occurs in untreated diabetes mellitus Type I, alcohol intoxication,
-starvation (exacerbated by pregnancy), and rarely due to an avquired
-enzyme defect causing pyroglutamic aciduria.
 
 # Lactate
 
@@ -2719,29 +2648,6 @@ Zone 3 pericentral glycolysis, lipolysis, glucoronidation
 
 xxx
 
-# Local Anaesthetics
-
-**Local Anaesthetics** act by blocking Na+ channels on nerve axons after
-diffusing across the axonal membrane. They are weak bases so they are
-more ionised in the relatively acidic intracellular space.
-
-Lipid solubility determines potency.
-
-Lower pKa determines faster onset.
-
-Protein binding determines duration of action.
-
-Structure consists of an aromatic group bound to a hydrophilic group by
-an ester or amide bond.
-
-Esters: Amethocaine, procaine, cocaine (??dibucaine) - metabolised in
-plasma (not cocaine) and by hepatic esterases.
-
-Amides Prilocaine, lidocaine, ropivacaine, bupivacaine are metabolised
-by amidases xxx xxx xxx check!
-
-Mechanism of action Na++ channels xxx
-
 # Local anaesthetic toxicity
 
 **Local anaesthetic toxicity** Early symptoms: tinnitus, circumoral
@@ -2767,6 +2673,29 @@ Intralipid dose for a 70kg patient would be:
 
 After arrest, replace intralipid on arrest trolley, tell the NPSA, take
 blood for measurement of local anaesthetic and lipid concentrations.
+
+# Local Anaesthetics
+
+**Local Anaesthetics** act by blocking Na+ channels on nerve axons after
+diffusing across the axonal membrane. They are weak bases so they are
+more ionised in the relatively acidic intracellular space.
+
+Lipid solubility determines potency.
+
+Lower pKa determines faster onset.
+
+Protein binding determines duration of action.
+
+Structure consists of an aromatic group bound to a hydrophilic group by
+an ester or amide bond.
+
+Esters: Amethocaine, procaine, cocaine (??dibucaine) - metabolised in
+plasma (not cocaine) and by hepatic esterases.
+
+Amides Prilocaine, lidocaine, ropivacaine, bupivacaine are metabolised
+by amidases xxx xxx xxx check!
+
+Mechanism of action Na++ channels xxx
 
 # Lumbosacral plexus
 
@@ -2799,46 +2728,6 @@ endothelin-1, serotonin, bradykinin, Prostaglandin-F2 <sub>α</sub> ).
 # Lung volumes
 
 **Lung volumes** A *capacity* is the sum of two or more *volumes*.
-
-# MIC
-
-**MIC** Minimum inhibitory concentration. The lowest concentration of an
-antimicrobial agent that inhibits growth …xxx
-
-# MRI
-
-**MRI** Principle: protons spin like the earth, and precess (wobble) on
-their axis. A moving charge induces a magnetic field. So all protons are
-like tiny, randomly aligned magnets.
-
-In the powerful constant magnetic field in the scanner, all the protons
-in a patient are assorted randomly along the longitudinal axis. A
-radiofrequency (RF) pulse is fired across the patient from a coil,
-causing the protons to line up transversely, and in synchrony. When the
-RF pulse ceases, the protons return to the longitudinal arrangement. As
-they do so they release energy, causing two detectable signals:
-
-T1 - return of the longitudinal magnetic field.
-
-T2 - loss of the transverse magnetic field.
-
-The scan sequence can be altered to detect each of these signals. On
-T1-weighted scans fat is bright, water is dark, grey matter is grey, and
-white matter is white. On T2-weighted scans, fat is bright, water is
-bright, grey matter is grey, and white matter is dark. Cortical bone is
-always dark, since the protons are immobile, and air is dark, because
-there are very few protons.
-
-Anaesthesia for MRI has numerous difficulties:
-
-\- remote, cramped, and unfamiliar site
-
-\- ferromagnetic objects accelerate in the magnetic field
-
-\- the magnetic field induces a current in electrical wires, interfering
-with monitoring and potentially causing burns on the patient.
-
-\- **Pacemakers** will initiate their programmed 'magnet response'.
 
 # Magnesium
 
@@ -2947,6 +2836,11 @@ with lipid solubility.
 
 Note logarithmic scales. Include labels xxx.
 
+# MIC
+
+**MIC** Minimum inhibitory concentration. The lowest concentration of an
+antimicrobial agent that inhibits growth …xxx
+
 # Michaelis-Menten
 
 **Michaelis-Menten** equation.
@@ -3022,6 +2916,41 @@ and **median** ).
 
 \[Kellie, G. *Trans Med Chir Soc (Edinburgh)* **1** , 84(1821).\]
 
+# MRI
+
+**MRI** Principle: protons spin like the earth, and precess (wobble) on
+their axis. A moving charge induces a magnetic field. So all protons are
+like tiny, randomly aligned magnets.
+
+In the powerful constant magnetic field in the scanner, all the protons
+in a patient are assorted randomly along the longitudinal axis. A
+radiofrequency (RF) pulse is fired across the patient from a coil,
+causing the protons to line up transversely, and in synchrony. When the
+RF pulse ceases, the protons return to the longitudinal arrangement. As
+they do so they release energy, causing two detectable signals:
+
+T1 - return of the longitudinal magnetic field.
+
+T2 - loss of the transverse magnetic field.
+
+The scan sequence can be altered to detect each of these signals. On
+T1-weighted scans fat is bright, water is dark, grey matter is grey, and
+white matter is white. On T2-weighted scans, fat is bright, water is
+bright, grey matter is grey, and white matter is dark. Cortical bone is
+always dark, since the protons are immobile, and air is dark, because
+there are very few protons.
+
+Anaesthesia for MRI has numerous difficulties:
+
+\- remote, cramped, and unfamiliar site
+
+\- ferromagnetic objects accelerate in the magnetic field
+
+\- the magnetic field induces a current in electrical wires, interfering
+with monitoring and potentially causing burns on the patient.
+
+\- **Pacemakers** will initiate their programmed 'magnet response'.
+
 # Mucosa
 
 **Mucosa** in the gut has four layers:
@@ -3082,13 +3011,6 @@ following handshake. Percussion myotonia - tapping thenar eminence or
 tongue causes it to contract.
 
 Avoid sux.
-
-# NMDA receptor
-
-**NMDA receptor** excitatory ligand-gated cation channel. Regulates Ca++
-and Na++ influx.
-
-Sites for glutamine, glycine, Zn++.
 
 # National audit projects (NAP)
 
@@ -3195,6 +3117,13 @@ Surgical wound infection.
 
 See **inhalational agents.**
 
+# NMDA receptor
+
+**NMDA receptor** excitatory ligand-gated cation channel. Regulates Ca++
+and Na++ influx.
+
+Sites for glutamine, glycine, Zn++.
+
 # Noradrenaline
 
 **Noradrenaline** See **catecholamines.**
@@ -3252,12 +3181,9 @@ source for enterocytes. Arginine is the source of NO, but far from
 worsening shock, current evidence suggests that arginine supplementation
 may improve outcome in sepsis.
 
-# OSAHS (obstructive sleep apnoea-hypopnea syndrome)
+# Nystagmus 
 
-**OSAHS (obstructive sleep apnoea-hypopnea syndrome)** diagnosed at
-polysomnography. Predicts difficult intubation. Treated with CPAP. May
-lead to hyperuricaemia, polycythaemia, pulmonary hypertension, cor
-pulmonale.
+Pendular nystagmus - common in babies and blind
 
 # Obesity
 
@@ -3401,6 +3327,13 @@ Experimental: NaHCO <sub>3</sub> , Mg <sup>++</sup> , FFP, CVVHF.
 
 \[Eddleston, M. et al. *The Lancet* **371** , 597-607\]
 
+# OSAHS (obstructive sleep apnoea-hypopnea syndrome)
+
+**OSAHS (obstructive sleep apnoea-hypopnea syndrome)** diagnosed at
+polysomnography. Predicts difficult intubation. Treated with CPAP. May
+lead to hyperuricaemia, polycythaemia, pulmonary hypertension, cor
+pulmonale.
+
 # Oscillotonometer
 
 **Oscillotonometer**
@@ -3468,12 +3401,13 @@ for complete oxidation (to CO2 and H2O) is given by: c + h/4 - o/2. See
 
 **Oxygen consumption (VO2)** Normally 3.8ml/kg.
 
-# PaCO2
+# p
 
-**PaCO2** is wholly determined by the equation:
-
-PaCO2 = VCO2/VA. Since metabolism is almost always constant, this means
-that PaCO2 is usually determined by alveolar ventilation.
+The probability that the **null hypothesis** is true. By convention, if
+p &lt; 0.05, the null hypothesis is taken to be false. If multiple
+comparisons are performed, the p-value for significance is divided by
+the number of comparisons (eg for 5 comparisons, p &lt; 0.01 is needed
+for significance; this is the *Bonferroni correction* ).
 
 # Pacemakers
 
@@ -3487,6 +3421,13 @@ reverts the pacemaker to a demand mode at a rate of 60/min. However,
 there is a variety of responses, some of which may involve the complete
 cessation of cardiac output, which can lead to end-organ damage. Not
 advisable.
+
+# PaCO2
+
+**PaCO2** is wholly determined by the equation:
+
+PaCO2 = VCO2/VA. Since metabolism is almost always constant, this means
+that PaCO2 is usually determined by alveolar ventilation.
 
 # Paediatric airway
 
@@ -3713,6 +3654,11 @@ innervation of the **diaphragm** .
 
 Xxx crosslinks
 
+# pK
+
+**pK** is the pH at which 50% of an acid or base is ionised.
+
+y-axis: percent ionised.<img src="images/image056.jpg" width="400" />
 # Placenta
 
 **Placenta** . Drugs pass a lipid bilayer to cross the placenta.
@@ -4283,10 +4229,6 @@ SAH
 
 Pericarditis
 
-# SI units
-
-**SI units** see **units** .
-
 # Sacral plexus
 
 **Sacral plexus** See **lumbosacral plexus.**
@@ -4463,6 +4405,10 @@ Note that shunt is affected by Hb concentration, since Hb largely
 determines the content of oxygen in the fraction of blood that passes
 alveoli. However the RCoA book suggests that the college do not believe
 this.xxx
+
+# SI units
+
+**SI units** see **units** .
 
 # Sickle cell anaemia
 
@@ -4792,6 +4738,19 @@ Expiratory - obstruction below chords
 
 Both - obstruction at or below chords
 
+# Subarachnoid 
+
+Dropped GCS
+- sz
+- hydrocephalus 
+- vasospasm
+- bleed
+- infarct 
+
+Show families the scans. 
+Unsecured aneurysms are dangerous.
+SAH with hypoxia = neurogenic pulm oedema.
+
 # Subarachnoid haemorrhage
 
 **Subarachnoid haemorrhage** xxx% aneurysm xxx%traumatic
@@ -4946,19 +4905,6 @@ Temp: °C
 CI
 
 SVRI
-
-# TUR syndrome
-
-**TUR syndrome** caused by absorption of isotonic glycine solution used
-for irrigation during TUR procedures. Hypotension and bradycardia occur,
-and hyponatraemia leading to cerebral oedema and seizures.
-
-# TURP (transurethral resection of the prostate)
-
-**TURP (transurethral resection of the prostate)** estimated blood loss
-is between 10 and 20mls per gram of prostate resected. Irrigation fluid
-at a height of 1m enters venous sinuses in the prostate at a rate of
-20-60ml/min. This may lead to **TUR syndrome** .
 
 # Tautomerism
 
@@ -5230,6 +5176,19 @@ resolution of symptoms immediately after this.
 **Triple point** The temperature and pressure at which the gas, liquid
 and solid forms of a substance exist in equilibrium.
 
+# TUR syndrome
+
+**TUR syndrome** caused by absorption of isotonic glycine solution used
+for irrigation during TUR procedures. Hypotension and bradycardia occur,
+and hyponatraemia leading to cerebral oedema and seizures.
+
+# TURP (transurethral resection of the prostate)
+
+**TURP (transurethral resection of the prostate)** estimated blood loss
+is between 10 and 20mls per gram of prostate resected. Irrigation fluid
+at a height of 1m enters venous sinuses in the prostate at a rate of
+20-60ml/min. This may lead to **TUR syndrome** .
+
 # Ulnar nerve
 
 **Ulnar nerve** arises from the medial cord of the **brachial plexus** .
@@ -5346,14 +5305,6 @@ Xxx how does this get to:
 V <sub>A</sub> /Q <sub>t</sub> =8.63\*(C <sub>a</sub> O<sub>2</sub> -C
 <sub>v</sub> O<sub>2</sub> )/P <sub>A</sub> CO2
 
-# VCO<sub>2</sub>
-
-**VCO<sub>2</sub>**
-
-# VO<sub>2</sub>
-
-**VO<sub>2</sub>**
-
 # Vacuum-insulated evaporators
 
 **Vacuum-insulated evaporators** xxx
@@ -5422,6 +5373,56 @@ Determinants of output concentration:
 **Vapour** is matter in gaseous form below its **critical temperature**
 .
 
+# Vasopressim
+
+VASST - hint of benefit if given early (in less severe shock); less renal injury.
+VANISH -
+VANCS - less acute renal failure after cardiac surgery; less atrial fibrillation vs norad.
+IPDMA - VANISH, VASST, VANCS: no survival difference *at all*; significant reduction in RRT requirement, narrowly significant. More digital ischaemia, less arrythmia.
+
+Modified Sgarbossa Criteria:
+≥ 1 lead with ≥1 mm of concordant ST elevation
+≥ 1 lead of V1-V3 with ≥ 1 mm of concordant ST depression
+≥ 1 lead anywhere with ≥ 1 mm STE and proportionally excessive discordant STE, as defined by ≥ 25% of the depth of the preceding S-wave.
+
+Urinary antigen tests available for:
+Streptococcus pneumoniae
+Legionella pneumophila serogroup 1.
+
+Bellomo. TRPF para amino hippuric acid 1970s TRPF is elevated in sepsis. But efferent dilation is greater so decreased GFR. In sheep, reversed by angiotensin II.
+
+Shunt vessels exist between afferent and efferent arterioles. Arne Lundquist 1970s. Ludwig 1911. "Ludwig's arteriole"
+
+Kids at risk of hyponatraemia due to nonphysiological ADH secretion (very common indeed, caused by nausea/distress) and at risk of complications due to higher brain:box ratio.
+
+Neuromuscular disorders
+MND: ddx als, polio, West Nile, paraneoplastic
+NMJ: ddx myasthenia, ELMS, botulism, organophosphate, snake bite
+
+GBS: weakness, areflexia, tingling and pain. Usually ascending. But bulbar variants exist.
+Complications - autonomic instability,
+Ileus leading to stercoperforation and death. Neuropathic pain.
+Sux hyperkalaemia
+Ddx: transverse myelitis, heavy metal poisoning, other nmd disorders above
+
+Rx.
+IVIG. Pooled from thousands of donors. Give once. Causes AKI.
+Plasma exchange
+Early trache.
+Don't push them too hard weaning
+Wean at 15ml/kg (about a litre) vital capacity
+
+Myasthenia gravis:
+Fatiguability. Younger women, older men.
+Normal reflexes, no sensory involvement.
+15-20% thymoma.
+Rx
+Acetylcholinesterase inhibitors (if too much, SLUDGE) . Steroids, IVIG, plex. Azathioprine, rituximab
+
+# VCO<sub>2</sub>
+
+**VCO<sub>2</sub>**
+
 # Venous drainage of brain
 
 **Venous drainage of brain** Blood drains in superficial cerebral veins
@@ -5458,6 +5459,26 @@ physiologists.
 # Venturi effect
 
 **Venturi effect** dependent on **Bernoulli principle** .
+
+# viruses
+
+lipid enveloped: HIV HepB HepC
+
+
+
+<!--
+Learn
+
+Abx, mero taz amox metro 
+Inattention neglect 
+Blood pressure aortic dissection 
+Plateau pressure 
+-->
+
+
+# VO<sub>2</sub>
+
+**VO<sub>2</sub>**
 
 # Volatiles
 
@@ -5521,24 +5542,3 @@ by the composition of the gases, but is affected by moisture.
 tends to occur when a metabolic system is saturated, and leads to
 accumulation of drug. Eg. Heparin, Aspirin, Phenytoin, and Ethanol.
 
-# e
-
-The base of the natural logarithm, 2.718.
-
-# g
-
-Acceleration due to gravity 9.8 m/s <sup>2</sup>
-
-# p
-
-The probability that the **null hypothesis** is true. By convention, if
-p &lt; 0.05, the null hypothesis is taken to be false. If multiple
-comparisons are performed, the p-value for significance is divided by
-the number of comparisons (eg for 5 comparisons, p &lt; 0.01 is needed
-for significance; this is the *Bonferroni correction* ).
-
-# pK
-
-**pK** is the pH at which 50% of an acid or base is ionised.
-
-y-axis: percent ionised.<img src="images/image056.jpg" width="400" />
