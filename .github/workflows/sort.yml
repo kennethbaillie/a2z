@@ -1,0 +1,38 @@
+name: Sort Markdown on Push
+
+on:
+  push:
+    branches:
+      - main  # Adjust this if you want to target a different branch
+
+jobs:
+  sort-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run Python script to sort markdown
+        run: |
+          python _scripts/sort_md.py  # Replace with the actual path of your Python script
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Sort markdown file(s) on push" || echo "No changes to commit"
+          git push
