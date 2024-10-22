@@ -32,5 +32,5 @@ def main(file_path):
     print(f"File '{file_path}' sorted successfully by top-level headers.")
 
 if __name__ == "__main__":
-    file_path = "../source/a2z.md"  # Replace with your file path
+    file_path = "/source/a2z.md"  # Replace with your file path
     main(file_path)
