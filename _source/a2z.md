@@ -15,6 +15,12 @@ SAH with hypoxia = neurogenic pulm oedema.
 
 Pendular nystagmus - common in babies and blind
 
+# Hypokalaemia and Acidosis
+
+Diuretics
+Acetazolamide
+Renal tubular acidosis type 1
+Enteral losses
 
 # Vasopressim
 
