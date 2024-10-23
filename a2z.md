@@ -37,19 +37,19 @@ compensation:
 
 <table>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Acute respiratory acidosis:</td>
 <td>ΔHCO3<sup>-</sup> = 1mM for each 1kPa change in PCO2</td>
 </tr>
-<tr class="even">
-<td>Acute respiratory alkalosis:</td>
-<td>ΔHCO3<sup>-</sup> = 2mM for each 1kPa change in PCO2</td>
-</tr>
-<tr class="odd">
+<tr>
 <td>Chronic respiratory acidosis:</td>
 <td>ΔHCO3<sup>-</sup> = 4mM for each 1kPa change in PCO2</td>
 </tr>
-<tr class="even">
+<tr>
+<td>Acute respiratory alkalosis:</td>
+<td>ΔHCO3<sup>-</sup> = 2mM for each 1kPa change in PCO2</td>
+</tr>
+<tr>
 <td>Chronic respiratory alkalosis:</td>
 <td>ΔHCO3<sup>-</sup> = 3mM for each 1kPa change in PCO2</td>
 </tr>
@@ -189,7 +189,7 @@ is less if albumin or phosphate low. Normal AG = 0.2\*Alb (g/l) +
 **Ankle block** targets five nerves: sural, superficial and deep
 peroneal, saphenous, tibial.
 
-<img src="images/image001.jpg" width="400" />
+<img src="img/ankle block.jpg" width="400" />
 
 # Antibiotics
 
